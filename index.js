@@ -1,6 +1,7 @@
 function welcome() {
     console.log("Welcome to our GitHub Workshop! The following people finished the assignment: ");
     kevin();
+    Adila();
 }
 
 welcome();
@@ -9,4 +10,7 @@ welcome();
 
 function kevin() {
     console.log("Kevin");
+};
+function Adila() {
+    console.log("Adila");
 };
